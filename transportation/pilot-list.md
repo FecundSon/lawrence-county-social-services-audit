@@ -1,0 +1,47 @@
+# Lawrence County, PA — Transportation pilot list
+
+Date compiled: 2026-11-22. Status: PILOT LIST ONLY — as found BEFORE checking, with claim sources listed. Nothing in this list has been sent anywhere.
+County: Lawrence County, PA (county seat New Castle, largest city; other towns New Wilmington, Ellwood City (partly in Lawrence County), Volant, Wampum, Bessemer, New Beaver, Enon Valley, Pulaski, Hillsville, West Pittsburg).
+Category: Transportation.
+Directory: statewide PA 211 (search.pa211.org / pa211.org), plus secondary lists and organisations' own sites where PA 211 text fetch could not pull a complete county-filtered list.
+Method note: PA 211's search pages are JavaScript-driven and text fetch cannot pull a complete county-filtered list, so this pilot is anchored on retrievable PA 211 items plus secondary lists plus own sites — NOT a complete county directory. A live-browser PA 211 Lawrence County check is outstanding before any send.
+Auditor note: the auditor is NOT a local resident of Lawrence County. Prepared with AI assistance (Muse).
+
+## Pilot rows (as found)
+
+| # | Organisation / programme (as listed) | Directory / secondary claim (as found) | Claim source |
+|---|---|---|---|
+| 1 | New Castle Area Transit Authority (NCATA) — fixed-route local buses | 311 Mahoning Ave, New Castle, PA 16102; (724) 654-3130; routes 1–8, 11, 77, 92, 93 across New Castle and townships; seniors 65+ ride free with a pass | newcastletransit.org; Transitland; pittsburghtransit.org (secondary) |
+| 2 | NCATA — Route 71 Pittsburgh commuter | New Castle to downtown Pittsburgh via I-79 park-and-rides (Portersville, Evans City); fare $4.00 per person regardless of age | newcastletransit.org admin post; Butler Transit Development Plan 2017 (secondary) |
+| 3 | NCATA — Routes 81 (Boyers / Iron Mountain) and 82 (Hermitage / Kennedy) | Route 81 via Slippery Rock (Butler County) to Boyers; Route 82 to Hermitage (Mercer County), mornings | newcastletransit.org schedule pages; Transitland |
+| 4 | NCATA — ADA Complementary Paratransit (via ACTS) | Apply via NCATA (724) 654-3130; ACTS is subcontractor; typical fare $2.00 in-city New Castle; within ¾ mile of fixed routes | rideactsbus.org Programmes for People with Disabilities |
+| 5 | ACTS — general public shared ride | 701 N Mercer St, New Castle, PA 16101; (724) 652-5588; door-to-door, advance reservation; full fares $13.25–$50.00 by mileage | rideactsbus.org FAQ / Rides for Everyone |
+| 6 | ACTS — Senior Citizen Shared Ride, 65+ | 701 N Mercer St, New Castle, PA 16101; 65+; office hours Mon–Fri 8:30am–4:30pm; PA 211 fees "call or visit website"; Lottery pays 85% | search.pa211.org record; rideactsbus.org Senior Citizen Programs |
+| 7 | ACTS — Persons with Disabilities (PwD) 18–64 | 701 N Mercer St, New Castle, PA 16101; (724) 652-5588; ages 18–64, documented disability; PA 211 fees "$2.00 to $7.50 per ride mileage based" | search.pa211.org record; rideactsbus.org |
+| 8 | ACTS — MATP trips (door-to-door provider) | MATP passengers ride free to medical appointments / pharmacy, in-county and out-of-county; ACTS is door-to-door provider for the Lawrence County MATP Administrator (Lawrence County Social Services, Inc.) | rideactsbus.org Ride Guide |
+| 9 | LCCAP / Lawrence County Social Services, Inc. — MATP administrator | 241 W Grant St, New Castle, PA 16101; (724) 658-7258; "LCCAP administers MATP on behalf of Lawrence County"; free medical transport for Medical Assistance recipients; mileage reimbursement $0.25/mile; NCATA bus tickets; ACTS | lccap.org Transportation; PA 211 NEMT record; Lawrence County Commissioners minutes June 2, 2026 (2026–27 MATP agreement, LCSS as vendor/administrator) |
+| 10 | ACTS — Child Care Transportation / Rides to Childcare | 701 N Mercer St, New Castle, PA 16101; (724) 652-5588; $1.00 per ride per child; K–Grade 6 between childcare provider and school; household income <200% FPL; parent working 20+ hrs/week | search.pa211.org record; rideactsbus.org Childcare Transportation |
+| 11 | ACTS — Rides to Work Program | 701 N Mercer St, New Castle, PA 16101; (724) 652-5588; low-income parents employed, lacking reliable transport; Shared Ride service or free fixed-route bus tickets to work | search.pa211.org Employment Related Transportation record; LCCAP/ACTS publicity |
+| 12 | ACTS — PennDOT Same Day Trip Pilot | Same-day trips for enrolled Senior Lottery / PwD passengers from July 1, 2022; up to 10 one-way same-day trips/month; call 8:30am–4:00pm Mon–Fri; earliest appointment 9:00 AM, latest pickup 5:00 PM; no Saturdays / out-of-county | lccap.org (updated 2024-11-21) |
+| 13 | Catholic Charities — Lawrence County Area Agency on Aging / Challenges: Options in Aging (transportation) | 2706 Mercer Rd, Shenley Square, New Castle, PA 16015 (PA 211 ZIP); (724) 658-3729; serves 60+ in Lawrence County; Mon–Fri 7:30am–4:30pm; transportation listed among in-home / supportive services; $1.00 ACTS trips via Challenges | search.pa211.org record; ccpgh.org Senior Services |
+| 14 | PennDOT Find My Ride Apply — application portal | Apply online for MATP, Senior 65+, ADA, PWD at apply.findmyride.penndot.pa.gov; ACTS trips also bookable via Find My Ride Schedule (findmyridepa.org) | PA DHS MATP 101; rideactsbus.org |
+| 15 | DAV van / Lawrence County Veterans Affairs — transport to VA facilities | VA.gov: Lawrence County DAV phone (724) 656-6868; Tue–Fri VA Pittsburgh, Mon Altoona VA; county secondary source: DAV van (724) 477-5010, call two weeks ahead, leaves Lawrence County Government Center, 430 Court St, New Castle | va.gov DAV vans; app.vettoc.com county veterans page (secondary) |
+| 16 | Noga Ambulance Service, Inc. / Noga Wheelchair Transport Service | Non-emergency transport and wheelchair services, all Lawrence County municipalities; stations New Castle, Neshannock Twp., Ellwood City; 2615 Wilmington Rd, New Castle, PA 16105, (724) 652-8300 (countyoffice.org); also listed at 1060 Butler Ave, (724) 652-6677 (places listing); MATP provider per 2023 county resolution | nogaems.com; countyoffice.org (secondary); Lawrence County Commissioners minutes May 2, 2023 |
+| 17 | Greyhound — New Castle Park & Ride | 3125 New Butler Rd, New Castle, PA 16101; bus stop; (800) 231-2222; 1 Greyhound stop in New Castle | greyhound.com |
+| 18 | NCATA — Route 91 Ohio Line / Villa Maria | Route 91 on US 422 to the Ohio/Pennsylvania line (Country Manor Social Hall); no connection to Youngstown WRTA; NCATA buses cannot enter Ohio | pittsburghtransit.org (secondary); Transitland route list |
+| 19 | NCATA — Routes 75 (New Wilmington / Volant / Grove City) and 76 (Ellwood City) | Route 75 to New Wilmington, Volant and Grove City (Mercer County); Route 76 to Ellwood City | Transitland; pittsburghtransit.org (secondary) |
+| 20 | Mercer County Community Transit (MCCT) / Shenango Valley Shuttle Service (SVSS) | 5200 Virginia Rd, Hermitage, PA 16148; (724) 981-6222 / (724) 981-6770; fixed-route and shared-ride in Mercer County; MCCT also listed at 11 S Mill St, New Castle, PA 16101 in aggregators | Yellow Pages / Superpages (secondary); PA Act 44 performance review (secondary) |
+| 21 | Western Reserve Transit Authority (WRTA), Youngstown, OH | Fixed-route buses in Youngstown / Mahoning County, OH; nearest route ends ~3 miles short of the PA line on US 422 | pittsburghtransit.org (secondary) |
+| 22 | Westminster College — Titan Town Connect | Free student shuttle New Wilmington campus to New Castle, select weekends; departs campus 10:30 AM, returns 1:00 PM; RSVP on Engage | wcn247.com |
+| 23 | Westminster College — Campus Break Shuttle | Limited shuttle for enrolled students to Pittsburgh International Airport, Amtrak, Greyhound and Megabus in downtown Pittsburgh; reservations required; 2026–27 break dates listed | westminster.edu |
+| 24 | LCCAP — School Bus Services (Early Learning) | LCCAP school buses transport ~200 preschool students/day across 6 early learning centres | lccap.org Transportation |
+| 25 | Uber / Lyft — New Castle, PA | UberX requestable in New Castle 24/7 via app; Uber page: average 23-minute ride $38; taxi drivers may fulfil UberX requests | uber.com New Castle pages |
+| 26 | Infina Health — medical / wheelchair transport, New Castle, PA | Marketing page claims NEMT, wheelchair and stretcher transport in New Castle; no local address, phone or fare stated on the page retrieved | infinahealth.com (marketing page) |
+| 27 | "New Castle Transit" — free public transit (Indiana) | Flyer: FREE public transportation within city limits, door-to-door, Mon–Fri 8am–4pm, call (765) 529-8113 — area code 765 is Indiana, not Pennsylvania | Instagram / Facebook flyer (secondary; New Castle, Indiana) |
+
+## County-scope notes (as found, before geocoding)
+
+- New Castle, New Wilmington, Volant, Wampum, Ellwood City (partly), Bessemer and Pulaski are in Lawrence County; Grove City, Hermitage, Sharon, Slippery Rock and Boyers are NOT in Lawrence County (Mercer / Butler) but are NCATA / ACTS destinations.
+- Ellwood City straddles Lawrence and Beaver counties; the Challenges Ellwood City centre (1405 Woodside Ave) geocodes to Lawrence County (see audit report).
+- ZIP code does NOT settle county: PA 211 gives the Lawrence County AAA as "New Castle, PA 16015" — 16015 is not a New Castle ZIP; the address geocodes to 16105. Verified by exact geocoding in the audit report.
+- "New Castle" also exists in Indiana (765 area code) and Delaware; the free-transit flyer in row 27 is the Indiana city, not New Castle, PA.
