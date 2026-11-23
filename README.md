@@ -44,8 +44,8 @@ own site is marked UNVERIFIED.
 | Legal aid | `legal-aid/` | 31 rows (25 in scope, 6 out of scope) |
 | Transportation | `transportation/` | 27 rows (21 in scope, 6 out of scope) |
 
-**Public totals: 336 rows, 291 in scope (83 confirmed, 40 corrected,
-143 clarified, 25 unverified, 45 out of scope).** A thirteenth
+**Public totals: 336 rows, 291 in scope (**82 confirmed, 42 corrected, 142 clarified,
+25 unverified**, 45 out of scope).** A thirteenth
 category, domestic violence / safety services, was audited as a
 private report only (30 rows, 27 in scope: 15 confirmed, 1 corrected,
 10 clarified, 1 unverified, 3 out of scope) and is NOT in this repo.

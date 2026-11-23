@@ -45,7 +45,7 @@ NOT a local resident of Lawrence County. Prepared with AI assistance
   814-871-4401, toll-free 1-866-521-5073.
 - **EARN and TANF employment help are referral-only via the County
   Assistance Office.** No walk-in EARN office in Lawrence County;
-  CAO: 108 Cascade Galleria, New Castle, 724-656-3000.
+  CAO: 2656 Ellwood Rd, Suite 103, New Castle, 724-656-3000.
 
 ## Method and limits
 Pilot list built from retrievable statewide PA 211 entries, the West
@@ -69,7 +69,7 @@ sites — NOT a complete county directory. A live-browser PA 211
 Lawrence County check is outstanding before any send.
 
 ## Counts
-30 pilot items, 28 in scope — CONFIRMED 5, CORRECTED 4, CLARIFIED 16,
+30 pilot items, 28 in scope — CONFIRMED 5, CORRECTED 5, CLARIFIED 15,
 UNVERIFIED 3, OUT OF SCOPE 2.
 - CONFIRMED: PA CareerLink Lawrence County; LCCAP Employment
   Services; Lawrence County Career & Technical Center; BC3 @
@@ -78,7 +78,8 @@ UNVERIFIED 3, OUT OF SCOPE 2.
   102 Margaret St); OVR New Castle address (Frew Mill Rd →
   Ellwood Rd); BC3 @ Lawrence Crossing (closed June 2025);
   Lawrence County Learning Center move (101 S Mercer St →
-  BC3 @ Lawrence).
+  BC3 @ Lawrence); Lawrence County Assistance Office address
+  (2656 Ellwood Rd, Suite 103, not 108 Cascade Galleria).
 - CLARIFIED: West Central Job Partnership (board, not a walk-in
   centre); LCCAP ACTS Rides to Work (transport, not job help);
   Lawrence County Assistance Office (referral route); OVR BBVS Erie;

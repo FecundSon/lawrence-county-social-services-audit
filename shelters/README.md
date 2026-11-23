@@ -104,7 +104,7 @@ This audit was prepared with assistance from his AI assistant, Muse.
   PA 211 Lawrence County check is outstanding before any send.
 - Every in-county address was verified by exact geocoding, not ZIP code:
   319 S Croton Ave, 1018 Rebecca St, 241 W Grant St, 430 Court St,
-  108 Cascade Galleria, 481 Neshannock Ave, 240 W Grant St,
+  2656 Ellwood Rd, 481 Neshannock Ave, 240 W Grant St,
   439 Countyline St, 708 Highland Ave and 332 Highland Ave, all New
   Castle, and 511 Lawrence Ave, Ellwood City, all geocode to Lawrence
   County. (One geocoder quirk, not a finding: geocoding "319 South Croton
@@ -115,17 +115,17 @@ This audit was prepared with assistance from his AI assistant, Muse.
 
 30 pilot entries total: **22 in scope, 8 out of scope.**
 
-- In scope: **8 CONFIRMED, 3 CORRECTED, 10 CLARIFIED, 1 UNVERIFIED.**
+- In scope: **7 CONFIRMED, 4 CORRECTED, 10 CLARIFIED, 1 UNVERIFIED.**
   - CONFIRMED: LCCAP Coordinated Entry; Western PA CoC 2-1-1 emergency
-    referral line; PA DHS HAP Lawrence County contact; Lawrence County
-    Assistance Office (108 Cascade Galleria, (724) 656-3000); City Rescue
+    referral line; PA DHS HAP Lawrence County contact; City Rescue
     Mission Men's Crossroads Emergency Shelter; Arise emergency shelter /
     hotline (hotline only); LCCAP Regional SSVF; VLP SSVF.
   - CORRECTED: Hope Place Women's Shelter intake number (724-652-4349,
     not the main (724) 652-4321); Western PA CoC Arise hotline
     (724-652-9036, not 724-656-7867 — a CoC-list correction, not a PA 211
     error); Salvation Army New Castle address (240 W Grant St, not
-    204 W Grant St).
+    204 W Grant St); Lawrence County Assistance Office address
+    (2656 Ellwood Rd, Suite 103, not 108 Cascade Galleria).
   - CLARIFIED: City Rescue Mission Men's Recovery Program (recovery
     residence, not an emergency shelter); "Crisis Shelter of Lawrence
     County" (former name of Arise); "Women's Shelter of Lawrence County"

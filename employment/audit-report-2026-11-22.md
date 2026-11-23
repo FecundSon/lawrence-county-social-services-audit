@@ -144,8 +144,9 @@ to use the service. All other items are in the per-listing table below.
     no walk-in EARN office to list.** EARN is offered in all
     Pennsylvania counties (pa.gov), and TANF recipients are
     referred by their CAO caseworker. The Lawrence County
-    Assistance Office is at 108 Cascade Galleria, New Castle,
-    (724) 656-3000, Mon–Fri 7:30am–5:00pm. No named EARN
+    Assistance Office is at 2656 Ellwood Road, Suite 103, New Castle,
+    (724) 656-3000, Mon–Fri 7:30am–5:00pm (pa.gov CAO page, checked
+    2026-11-22; moved from 108 Cascade Galleria on September 28, 2026). No named EARN
     contractor or local EARN intake for Lawrence County was found
     in these searches; do not publish a Lawrence EARN office
     address. (See #26, UNVERIFIED.)
@@ -158,7 +159,7 @@ to use the service. All other items are in the per-listing table below.
 | 3 | Old CareerLink / WCJP addresses: 44 S Beaver St and 102 Margaret St, New Castle | CORRECTED | Local BH resource list gives WCJP at 44 S Beaver St with the CareerLink phone 724-656-3165; directory listings give "Lawrence County Careerlink" at 102 Margaret St. WCJP own site + PA 211 give the current office as 101 S Mercer St Ste 101 (#1). Do not list either old address. Both geocode to Lawrence County — staleness, not a county error. Confirm in live re-check. |
 | 4 | LCCAP — Employment Services, 241 W Grant St, New Castle, 724-658-7258 | CONFIRMED | Own site (lccap.org/programs-services/employment): "LCCAP provides job search and employment support services for adults" — interview skills, resume creation/updating, barrier problem-solving, case management, referrals within LCCAP and other agencies; contact to get started. Findhelp (last reviewed Oct 1, 2026) adds a job developer providing job leads and employer connections; hours Mon–Fri 9am–5pm. Geocoded: New Castle, Lawrence County. |
 | 5 | LCCAP ACTS — Rides to Work Program, 701 N Mercer St, New Castle, 724-652-5588 | CLARIFIED | PA 211: assists low-income parents who are currently employed and lack reliable transportation to work; Shared Ride or free fixed-route bus tickets to work. Employment-related transport, not job help itself. Geocoded: New Castle, Lawrence County. |
-| 6 | Lawrence County Assistance Office, 108 Cascade Galleria, New Castle, 724-656-3000 | CLARIFIED | Multiple sources agree: address, phone, Mon–Fri 7:30am–5:00pm. The CAO is the referral route for TANF/SNAP employment and training (EARN / Work Ready) — see headline 10. It is the referral route, not a job centre itself. Geocoded: New Castle, Lawrence County. |
+| 6 | Lawrence County Assistance Office, 108 Cascade Galleria, New Castle, 724-656-3000 | CORRECTED | pa.gov County Assistance Offices page (checked 2026-11-22): Lawrence County Assistance Office, 2656 Ellwood Road, Suite 103, New Castle, PA 16101, 724-656-3000. Commissioners' minutes, Sept 22, 2026: closed 108 Cascade Galleria after Sept 25, opened at Ellwood Road Sept 28. The CAO is the referral route for TANF/SNAP employment and training (EARN / Work Ready) — see headline 10. It is the referral route, not a job centre itself. Geocoded: New Castle, Lawrence County. |
 | 7 | OVR New Castle District (BVRS), 1745 Frew Mill Rd Ste 1, New Castle, 724-656-3070 (PA 211) | CORRECTED | PA 211 still lists 1745 Frew Mill Rd Ste 1. Current pa.gov OVR directory (fetched 2026-11-22) lists 2656 Ellwood Rd, Suite #102, New Castle, same phones 724-656-3070 / TTY 724-656-3252 / toll-free 1-800-442-6379 / video phone 724-510-0522, serving Armstrong, Beaver, Butler, Lawrence. Older OVR documents list 100 Margaret St. Both current and old addresses geocode to Lawrence County. Confirm the Ellwood Rd address live before sending. |
 | 8 | OVR BBVS Erie, 4200 Lovell Place, Erie, 814-871-4401 | CLARIFIED | pa.gov OVR directory (fetched 2026-11-22): Erie BBVS serves Lawrence (among 14 north-western counties). Toll-free 1-866-521-5073, TTY 814-871-4599. Blindness/visual services only — not the general VR district office (that is New Castle, #7). Geocoded: Erie, Erie County (street-level match). |
 | 9 | Lawrence County Career & Technical Center (LCCTC), 750 Phelps Way, New Castle, 724-658-3583 | CONFIRMED | Own site (lcctceagles.com): founded 1969, serves eight secondary sending schools in Lawrence County; daytime curricula for secondary AND adult students (automotive, collision repair, commercial art, computer office & technology, construction trades, cosmetology, electrical, health assistant, machine tool, masonry, oil & gas, restaurant trades, veterinary assistant, welding); adult vocational, adult basic education and GED programming. Geocoded: New Castle, Lawrence County. |
@@ -184,8 +185,8 @@ to use the service. All other items are in the per-listing table below.
 | 29 | Penn State Shenango, 147 Shenango Ave, Sharon, 724-983-2803 | OUT OF SCOPE | Own site (psu.edu / shenango.psu.edu): address confirmed. Geocoded: Sharon, Mercer County — the campus is not in Lawrence County. Further: Penn State's own site states Shenango "is no longer admitting new students" (current students continue through 2026–27), so it must not be presented as a current training route for Lawrence job seekers in any case. |
 | 30 | PA CareerLink Mercer County, 217 W State St, Sharon, 724-347-9257 | OUT OF SCOPE | WCJP own site: Mercer County's CareerLink office, Sharon (Mercer County). Lawrence is served by the New Castle office (#1), not Sharon. Geocoded: Sharon, Mercer County. |
 
-Counts: 30 pilot items — CONFIRMED 5 (1, 4, 9, 10, 25), CORRECTED 4
-(3, 7, 11, 12), CLARIFIED 16 (2, 5, 6, 8, 13, 14, 15, 16, 17, 18,
+Counts: 30 pilot items — CONFIRMED 5 (1, 4, 9, 10, 25), CORRECTED 5
+(3, 6, 7, 11, 12), CLARIFIED 15 (2, 5, 8, 13, 14, 15, 16, 17, 18,
 19, 20, 21, 22, 23, 24), UNVERIFIED 3 (26, 27, 28), OUT OF SCOPE 2
 (29, 30). In scope: 28 of 30.
 
